@@ -1,0 +1,1 @@
+print('odio el mundo')
